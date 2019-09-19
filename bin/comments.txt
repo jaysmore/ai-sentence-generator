@@ -1,0 +1,2 @@
+This program uses maximum likelihood estimation in order to search for important words in a movie.
+Movie used: The Prestige
